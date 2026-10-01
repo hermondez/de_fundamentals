@@ -1,11 +1,12 @@
 # Python & Data Engineering Fundamentals
 
-A personal reference repository for Python and data engineering fundamentals.
+Personal reference repository for Python and data engineering fundamentals.
 
-The goal is to build a practical foundation that can be used as a quick reference while learning and working on data engineering projects.
+The goal is to keep useful commands, concepts, and examples in one place for quick reference while learning and working on data engineering projects.
 
 ## Structure
 
+```text
 01_commands/
 ├── basics.md
 ├── python.md
