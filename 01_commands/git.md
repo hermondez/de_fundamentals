@@ -15,6 +15,7 @@ git log                          → show commit history
 git log --oneline                → compact commit history
 git branch                       → list branches
 git branch <name>                → create branch
+git branch -d <name>             → delete branch
 git switch <branch>              → switch branch
 git switch -c <name>             → create and switch to branch
 git merge <branch>               → merge branch into current branch
