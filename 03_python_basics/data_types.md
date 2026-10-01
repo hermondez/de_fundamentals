@@ -28,6 +28,7 @@ tuple(value)         → convert to tuple
 set(value)           → convert to set
 
 ## Common Examples
+
 name = "John"                       → str
 age = 27                            → int
 price = 19.99                       → float
@@ -40,6 +41,7 @@ user = {"id": 1, "name": "John"}    → dict
 unique_ids = {1, 2, 3}              → set
 
 ## Data Engineering
+
 None                 → commonly represents a missing/null value
 datetime             → used for timestamps and time-based data
 str                  → commonly used for IDs, names, and text fields
