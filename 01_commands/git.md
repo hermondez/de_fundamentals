@@ -25,6 +25,7 @@ git diff                         → show unstaged changes
 git diff --staged                → show staged changes
 git rm <file>                    → remove file from Git
 git mv <old> <new>               → move / rename tracked file
+git stash                        → PENDING!                  
 
 ## Basic Git Workflow
 git status
