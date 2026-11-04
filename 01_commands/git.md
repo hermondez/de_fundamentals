@@ -26,7 +26,9 @@ git diff                         → show unstaged changes
 git diff --staged                → show staged changes
 git rm <file>                    → remove file from Git
 git mv <old> <new>               → move / rename tracked file
-git stash                        → PENDING!                  
+git stash                        → PENDING!   
+git fetch --all --prune          → refresh remote info (and clean up deleted branches)  
+git branch -a                    → list all branches (local and remote)
 
 ## Basic Git Workflow
 git status
